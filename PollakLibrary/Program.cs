@@ -8,6 +8,14 @@ builder.Services.AddDbContext<LibraryDbContext>(options =>
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Register Repositories
+builder.Services.AddScoped<PollakLibrary.Api.Repositories.Interfaces.IBookRepository, PollakLibrary.Api.Repositories.BookRepository>();
+builder.Services.AddScoped<PollakLibrary.Api.Repositories.Interfaces.IMemberRepository, PollakLibrary.Api.Repositories.MemberRepository>();
+
+// Register Services
+builder.Services.AddScoped<PollakLibrary.Api.Services.Interfaces.IBookService, PollakLibrary.Api.Services.BookService>();
+builder.Services.AddScoped<PollakLibrary.Api.Services.Interfaces.IMemberService, PollakLibrary.Api.Services.MemberService>();
 var app = builder.Build();
 // 2. Global Error Handling
 app.UseMiddleware<GlobalExceptionHandlerMiddleware>();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PollakLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a17ad90e10fe021e79ba315305835e09db106dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96732b04b9b57fb40342180e231d12b8d971ebeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PollakLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PollakLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

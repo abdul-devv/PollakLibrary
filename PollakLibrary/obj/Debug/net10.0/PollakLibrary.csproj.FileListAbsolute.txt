@@ -453,3 +453,4 @@ C:\Users\ruman\Desktop\Project 2 Web backend\PollakLibrary\PollakLibrary\obj\Deb
 C:\Users\ruman\Desktop\Project 2 Web backend\PollakLibrary\PollakLibrary\obj\Debug\net10.0\PollakLibrary.pdb
 C:\Users\ruman\Desktop\Project 2 Web backend\PollakLibrary\PollakLibrary\obj\Debug\net10.0\PollakLibrary.genruntimeconfig.cache
 C:\Users\ruman\Desktop\Project 2 Web backend\PollakLibrary\PollakLibrary\obj\Debug\net10.0\ref\PollakLibrary.dll
+D:\Projects\Web449\PollakLibrary\obj\Debug\net10.0\PollakLibrary.sourcelink.json

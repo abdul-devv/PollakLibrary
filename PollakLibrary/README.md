@@ -1,3 +1,16 @@
+Team Members:
+1. Abdul Muqeet Ahmed
+2. Mohammad Asim Ali
+3. Mohammed Matheen Baba
+4. Ruman saiyed
+
+
+Video Demo:
+https://www.youtube.com/watch?v=PiyZZmvpYRA
+
+Design Document, API Endpoints List and Contributions are also uploaded in this directory for refernce.
+
+
 # PollakLibrary API
 
 **PollakLibrary** is a robust, production-ready RESTful Web API designed to handle modern library management needs. Built using **ASP.NET Core 8.0** and **Entity Framework Core**, it provides a streamlined interface for managing books, library members, and the lifecycle of borrowing transactions.
